@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-10-08T08:01:46.486952201Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-10-08T08:39:38.971976023Z",
     "templateType": "trip_g",
     "propertyId": "6b949bea-5b79-41f4-b4bf-0fc59a3e5445",
     "homepageId": "01a1103e-4169-7bd2-92e7-6e66ecd2adb3"
@@ -1662,7 +1662,29 @@
         }
       },
       "popup": {
-        "popups": [ ]
+        "popups": [
+          {
+            "id": "30544961-5eca-41af-a426-a5e51eaa5a37",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "01a11aab-021a-7e94-b763-56e6a5a4e9f3",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1103e-4169-7bd2-92e7-6e66ecd2adb3/popup/1791448776707-s16e4vltbi.png",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "30544961-5eca-41af-a426-a5e51eaa5a37"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          }
+        ]
       },
       "theme": {
         "font": {
